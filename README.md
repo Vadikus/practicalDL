@@ -28,7 +28,7 @@
 
 ### 0) Don't be scared of Linear Regressions - it does not "byte"!.. Basic Terminology:
 - Linear regression Notebook
-- (plot) 🐵🧠 What is neuron? What is activation function?
+- 🐵🧠 (plot) What is neuron? What is activation function?
 
 ### 1)  👀 Computer Vision:
 
@@ -50,7 +50,8 @@
 - 📒 Can LSTM guess the author?
 
 ### 3) Can Robot juggle? Reinforcement Learning:
-- (plot) 🎭 Actors and environment
+- 🎭 (plot) Actors and environment
+- Reinforcement learning
 
 ### 4) Operationalization, aka "10 ways to put your slapdash code into production..."
 - (plot) Data - Training - Deployment aka MLOps or CI/CD for Data Scientists
