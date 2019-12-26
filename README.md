@@ -9,6 +9,20 @@ Prerequisite: Python
 To use Jupyter Notebooks on your computer - please follow the [installation instructions](https://jupyter.readthedocs.io/en/latest/install.html).
 Note: Anaconda installation is recommended if you are not familiar with other Python package management systems. 
 
+### Guided Steps
+
+* Install dependencies
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+* Run jupyter notebook
+
+    ```bash
+    jupyter notebook
+    ```
+
 ## Agenda/Curriculum
     
 ### 00) Introductions:
