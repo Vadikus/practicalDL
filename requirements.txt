@@ -7,3 +7,4 @@ sklearn
 numpy
 requests
 PILLOW
+opencv-python
