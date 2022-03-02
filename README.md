@@ -1,4 +1,5 @@
 # github.com/Vadikus/practicalDL
+Class link: https://frontendmasters.com/courses/practical-machine-learning/
 
 ## Educational materials for Frontend Masters course "A Practical Guide to Deep Learning with TensorFlow 2.0 and Keras"
 
